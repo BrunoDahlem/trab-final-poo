@@ -1,4 +1,4 @@
-# trab-final-poo
+# Trabalho Final POO
 
 * Alexia Serra
 * Bruno Dahlem Pereira
