@@ -1,5 +1,5 @@
 # trab-final-poo
 
 * Alexia
-* Bruno Dahlem
-* Brendo Douglas
+* Bruno Dahlem Pereira
+* Brendo Douglas Magnus de Oliveira
